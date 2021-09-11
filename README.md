@@ -3,6 +3,12 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 - Java e Maven instalados
 
+## Polimorfismo de Sobreposição
+Mesma assinatura, classes diferentes
+
+## Polimorfismo de sobrecarga
+Assinaturas diferentes, mesma classe
+
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
