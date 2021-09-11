@@ -1,4 +1,4 @@
-# Aplicando o conceito de polimorfismo em Java usando características de animais
+# Aplicando o conceito de polimorfismo de sobreposição em Java usando características de animais
 ## Requisitos
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 - Java e Maven instalados
