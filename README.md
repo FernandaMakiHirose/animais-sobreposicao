@@ -20,7 +20,7 @@ Checar se o Maven está instalado:
 >mvn -v 
 
 ## Como executar o projeto?
-1) Clone o projeto no terminal com o seguinte comando: `git clone https://github.com/FernandaMakiHirose/animais-polimorfismo.git`
+1) Clone o projeto no terminal com o seguinte comando: `git clone https://github.com/FernandaMakiHirose/animais-sobreposicao.git`
 2) Abra o projeto no IntelliJ IDEA
 3) Aceitei o IntelliJ IDEA instalar as dependências e o Maven. Irá aparecer uma opção de aceitar fazer o download.
 4) Dentro do arquivo `AnimaisPolimorfismoApplication.java` digite no terminal: `mvn spring-boot:run`
